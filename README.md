@@ -1,6 +1,7 @@
 # News-Website
 
 **Overview**
+
 The News-App is a web application built using Bootstrap classes and public NewsAPI service. It provides a convenient way to access the latest news articles from various sources and categories, all in one place. With the integration of public APIs in the categories of General, Business, Sports, Technology, Entertainment. 
 
 **Features** 
